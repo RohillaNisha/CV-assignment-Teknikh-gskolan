@@ -1,0 +1,19 @@
+#name {
+  background-color: green;
+  padding-right: 100px;
+}
+
+p {
+  color: red;
+  background-color: blueviolet;
+}
+
+#heading1 {
+  background-color: beige;
+}
+
+#title {
+  background-color: blueviolet;
+  padding-left: 10px;
+  padding-right: 100px;
+}
